@@ -1,0 +1,7 @@
+{
+  "BrowserSettingsModel": {
+    "BrowserName": "chrome",
+    "BaseUrl": "https://www.fifa.com/",
+    "ImplicitWait": 10
+  }
+}
